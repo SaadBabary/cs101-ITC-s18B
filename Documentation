@@ -1,1 +1,31 @@
 ##Documentation
+                                              ITC Documentation
+                                              February 28, 2018
+1	Auto-grader:
+1.1	Solution:
+Hope for the best Prepare for the worst.
+2	Syntax:
+2.1	Different in different programming language:
+Common mistakes like after defining a function in python we use colon and in c++ we use semicolon after every statement. I put semicolon after defining function in python.
+3	Typing Error:
+3.1	Solution:
+Code was not giving correct answer so I debug using print”a” command after every single line. I was writing else statement outside the function.
+1
+4	Recursion:
+4.1	Solution:
+Concept not clear about recursion. I just know that recursion is a process in which a function call itself. But can’t use recursion as loop.
+5	Attribute Error:
+5.1	Solution:
+Error in module of a library. For example form math import py file it will give Attribute Error.
+6	Logical Error:
+6.1	Solution
+The error which the complier can’t understand. It is bug in program that cause it to operate incorrectly.
+7	Sessional Paper:
+7.1	Common mistakes:
+Paper was very easy but the problem is writing code on paper. So I decided to give some extra time to ITC and solve problems on paper.
+8	How to upload on GitHub:
+8.1	Solution
+See the best commands which help to upload by using YouTube Media.
+https://video.search.yahoo.com/yhs/search?fr=yhs-iba-1&hsimp=yhs-1&hspart=iba&p=how+to+make+folder+on+github#id=1&vid=1194d0f300c127f5217ae09a32f88c14&action=click
+helps to how to upload on github.
+Also can take help from your friend.
